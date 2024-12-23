@@ -1,0 +1,89 @@
+.dahlia,
+.dahlia * {
+  box-sizing: border-box;
+}
+.dahlia {
+  background: #b9383a;
+  height: 2708px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #0a093f;
+  border-width: 1px;
+  width: 500px;
+  height: 2500px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 1300px;
+}
+.dahlia-3 {
+  width: 604.56px;
+  height: 1567.35px;
+  position: absolute;
+  left: 782.71px;
+  top: 2420.28px;
+  transform-origin: 0 0;
+  transform: rotate(-79.42deg) scale(-1, 1);
+  object-fit: cover;
+}
+.so-fascinated-dahlia-darling-my-love-is-dahlia-our-love-is-dahlia-no-matter-what-they-say-i-ll-choose-to-love-you-anyway-cuz-you-re-my-dahlia-love-is-whim-my-name-is-fool-i-pray-to-god-dahlia-darling-my-love-is-dahlia-our-love-is-dahlia-no-matter-what-they-say-i-ll-choose-to-love-you-anyway-cuz-you-re-my-dahlia-my-love-is-dahlia-our-love-is-dahlia-o-matter-what-they-say-i-ll-let-me-love-you-anyway-cuz-you-re-my-dahlia-keep-falling {
+  color: #0a093f;
+  text-align: center;
+  font-family: "SongMyung-Regular", serif;
+  font-size: 24px;
+  line-height: 200%;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  top: 1050px;
+  width: 590px;
+  height: 1582px;
+  text-shadow: 6px 5px 4px rgba(0, 0, 0, 0.3);
+  -webkit-text-stroke: 0.5px #0a093f;
+}
+
+.dahlia2 {
+  color: #1e1a35;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  top: 150px;
+  width: 285px;
+  height: 93px;
+  text-shadow: 6px 5px 4px rgba(0, 0, 0, 0.3);
+  
+}
+.dahlia-1 {
+  width: 604.56px;
+  height: 1115.87px;
+  position: absolute;
+  left: 45.01px;
+  top: 1954.17px;
+  position: fixed;
+  transform-origin: 0 0;
+  transform: rotate(-100.58deg) scale(1, 1);
+  object-fit: cover;
+}
+.dahlia-2 {
+  width: 497.73px;
+  height: 977.15px;
+  position: absolute;
+  left: 455.77px;
+  margin-left: 10%;
+  margin-top: 20%;
+  top: 177.21px;
+  position: fixed;
+  opacity: 70%;
+  transform-origin: 0 0;
+  transform: rotate(30deg) scale(-1, 1);
+  object-fit: cover;
+}
